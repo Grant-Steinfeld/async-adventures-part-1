@@ -2,7 +2,7 @@
 Adventures in Async. Part I - Reactive Java Programming for the Impatient
 
 
-##How to login to the RedHat Server
+## How to login to the RedHat Server to use Java8 and Maven(mvn) to do the exercises below.
 
 ssh firstlastname@async.bch.nyc
 
